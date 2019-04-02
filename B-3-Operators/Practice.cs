@@ -21,6 +21,7 @@ namespace B_3_Operators
         /// Пускай он теперь не выводит ответ сам. 
         /// А запрашивает ответ и потом проверяет его на правильность.
         /// </summary>
+       /// </summary>
         public static void B3_P2_9_CheckResultAddition()
         {
 
